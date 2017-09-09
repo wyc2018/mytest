@@ -15,4 +15,5 @@ public interface CustomerDao {
 	void updateCustomer(Customer customer);
 	
 	void deleteCustomer(Long cust_id);
+	//nihao
 }
